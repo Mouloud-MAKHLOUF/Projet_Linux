@@ -3,11 +3,9 @@ from requests.auth import HTTPBasicAuth
 import requests
 from datetime import datetime
 import os
-#from rasterio import open as raster_open
-import matplotlib.pyplot as plt
 
-os.chdir('/home/onyxia/work/Projet/')
-os.getcwd()
+
+
 
 # Current datetime
 import requests
